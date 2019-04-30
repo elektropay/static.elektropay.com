@@ -13402,7 +13402,8 @@ img.img-shadow,
     background-repeat: no-repeat;
     height: 38px; 
     width:200px;
-    background-size: 162px;
+    margin-top: 5px;
+    background-size: 165px;
     background-position: center; 
 }
 
@@ -13462,6 +13463,7 @@ img.img-shadow,
     background-repeat: no-repeat;
     height: 38px; 
     width: 200px;
+    margin-top: -5px;
     background-position: center; 
     background-size: 165px;
 }
