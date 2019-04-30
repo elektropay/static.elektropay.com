@@ -13440,7 +13440,7 @@ img.img-shadow,
     background: rgba(255, 255, 255, .8);
     display: block;
     height: 1px;
-    width: 20px;
+    width: 0px;
     bottom: -1px;
     left: 50%;
     margin-left: -10px;
