@@ -13330,8 +13330,28 @@ img.img-shadow,
     text-align: center;
     letter-spacing: 0;
     line-height: 16px !important;
-    font-size: .5rem;
+    font-size: 0.75rem;
     color: #fff;
+}
+
+
+
+.top-bar-login > span > span {
+    left: -4px;
+    top: 1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 16px !important;
+    font-size: 0.75rem;
+}
+
+.top-bar-account > span > span {
+    left: 1px;
+    top: 1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 16px !important;
+    font-size: 0.75rem;
 }
 
 .nav-toggle {
