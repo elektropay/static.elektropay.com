@@ -13308,7 +13308,7 @@ img.img-shadow,
     width: 100%;
     padding: 0 11px;
     letter-spacing: .05625rem;
-    text-transform: uppercase;
+    text-transform: none;
     font-weight: 600;
     font-size: 1.0625rem;
 }
