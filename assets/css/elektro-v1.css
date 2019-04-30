@@ -13782,6 +13782,18 @@ img.img-shadow,
     }
 }
 
+ .header.header-transparent .extra-nav > ul > li > a > .btn, .header.header-transparent .inner-nav > ul > li > a > .btn {
+    color: #ddd;
+    margin: 0 10px 10px 0;
+    text-transform: uppercase;
+    letter-spacing: .1125rem;
+    font-size: .75rem; 
+    padding: .625rem 1.5rem;
+    line-height: 1.5;
+    border-radius: .1875rem;
+     height:35px;
+}
+
 .header + .wrapper .module:first-child {
     padding-top: 194px;
 }
