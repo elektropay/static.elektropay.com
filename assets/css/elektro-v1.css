@@ -13169,7 +13169,7 @@ img.img-shadow,
 
 .header {
     position: fixed;
-    height: 74px;
+    height: 70px;
     width: 100%;
     transition: height .3s ease-out, background .3s ease-out, box-shadow .3s ease-out;
     transform: translate3d(0, 0, 0);
@@ -13177,8 +13177,8 @@ img.img-shadow,
 }
 
 .header.header-small {
-    height: 60px;
-    box-shadow: 0 0 60px 0 rgba(0, 0, 0, .07);
+    height: 70px;
+    box-shadow: 0 0 70px 0 rgba(0, 0, 0, .07);
 }
 
 .header .container-fluid {
