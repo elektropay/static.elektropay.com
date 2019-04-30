@@ -13395,11 +13395,11 @@ img.img-shadow,
 
 .header.header-transparent .inner-brand {
     color: #222;
-    background-image: url("https://res.cloudinary.com/lmj6rf6tz/image/upload/c_scale,e_grayscale,w_154/v1442882912/logo_grey_zhopqw.png");
+    background-image: url("https://res.cloudinary.com/lmj6rf6tz/image/upload/v1442882912/logo_grey_zhopqw.png");
     background-repeat: no-repeat;
-    height: 38px; 
+    height: 40px; 
     width:200px;
-    margin-top: 5px;
+    margin-top: -5px;
     background-size: 165px;
     background-position: center; 
 }
@@ -13458,7 +13458,7 @@ img.img-shadow,
     color: #222;
     background-image: url("https://res.cloudinary.com/lmj6rf6tz/image/upload/v1497453042/elektropay/assets/img/logo.png");
     background-repeat: no-repeat;
-    height: 38px; 
+    height: 40px; 
     width: 200px;
     margin-top: -5px;
     background-position: center; 
