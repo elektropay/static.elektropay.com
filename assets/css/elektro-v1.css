@@ -13885,6 +13885,11 @@ img.img-shadow,
 .bg-gray {
     background-color: #f8f8f8;
 }
+.bg-dark {
+    background-color: #262F36;
+}
+
+
 
 .overlay-background {
     background: #333;
@@ -14941,7 +14946,7 @@ img.img-shadow,
 
 
 .footer {
-    background: #222;
+    background: #262F36;
 }
 
 .footer h1,
