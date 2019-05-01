@@ -14938,6 +14938,8 @@ img.img-shadow,
     opacity: .5;
 }
 
+
+
 .footer {
     background: #222;
 }
@@ -14996,6 +14998,17 @@ img.img-shadow,
 
 .footer-bar p {
     margin-bottom: 0;
+}
+
+.legals {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.legals > li {
+    display: inline-block;
+    margin: 0 10px 0 0;
 }
 
 body:after,
