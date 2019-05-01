@@ -61,6 +61,7 @@
     box-sizing: border-box;
 }
 
+
 html {
    font-family: fa5-proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 1.15;
@@ -14815,8 +14816,8 @@ img.img-shadow,
 .widget-categories ul li,
 .widget-recent-entries ul li,
 .widget-recent-entries-custom ul li {
-    border-bottom: 1px solid #f0f0f0;
-    padding: 7.5px 0;
+    border-bottom: 0px solid #f0f0f0;
+    padding: 5px 0;
     margin: 0;
 }
 
