@@ -13090,6 +13090,22 @@ img.img-shadow,
     display: none;
 }
 
+.creditcard-icons {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.creditcard-icons > li {
+    display: inline-block;
+    margin: 0 15px 0 0;
+}
+
+.creditcard-icons > li > a {
+    font-size: 1.3125rem;
+    color: #222;
+}
+
 .social-icons {
     list-style: none;
     padding: 0;
