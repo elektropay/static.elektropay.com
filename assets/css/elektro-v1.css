@@ -13366,7 +13366,7 @@ img.img-shadow,
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 
-.top-bar-login > span > span {
+.header.header-small .top-bar-login > span > span {
     left: -4px;
     top: -5px;
     height: 40px;
@@ -13414,7 +13414,7 @@ img.img-shadow,
 }
 
 
-.top-bar-account > span > span {
+.header.header-small .top-bar-account > span > span {
     left: 1px;
     top: -5px;
     height: 40px;
@@ -13452,8 +13452,8 @@ img.img-shadow,
     background-repeat: no-repeat;
     height: 38px; 
     width:200px;
-    margin-top: -5px;
-    background-size: 155px;
+    margin-top: 1px;
+    background-size: 152px;
     background-position: center; 
 }
 
