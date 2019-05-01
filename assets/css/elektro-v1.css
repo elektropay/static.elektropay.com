@@ -14745,7 +14745,7 @@ img.img-shadow,
 
 .widget {
     margin-bottom: 60px;
-    font-size: .8125rem;
+    font-size: .8825rem;
 }
 
 .widget .widget-title {
@@ -14755,8 +14755,8 @@ img.img-shadow,
 .widget .widget-title > h6 {
     text-transform: uppercase;
     letter-spacing: 2.6px;
-    font-weight: 700;
-    font-size: .6875rem;
+    font-weight: 500;
+    font-size: .8875rem;
     margin: 0;
 }
 
