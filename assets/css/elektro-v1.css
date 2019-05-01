@@ -13257,7 +13257,7 @@ img.img-shadow,
     padding: 0 7px;
     letter-spacing: .05625rem;
     text-transform: none;
-    font-weight: 600;
+    font-weight: 500;
     font-size: .9755rem;
 }
 
@@ -15016,7 +15016,7 @@ img.img-shadow,
 
 .legals > li {
     display: inline-block;
-    margin: 0 20px 0 0;
+    margin: 0 25px 0 0;
 }
 
 body:after,
