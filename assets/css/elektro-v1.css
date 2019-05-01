@@ -12150,6 +12150,12 @@ pre[class*=language-] {
         text-align: justify;
     }
 }
+ 
+.text-white {
+    color: #FFF!important;
+}
+
+
 
 .page-item:first-child .page-link {
     border-radius: 100%;
