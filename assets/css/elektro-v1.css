@@ -16244,3 +16244,130 @@ pre {
   border-bottom: 0;
 }
 
+.max-width-6 {
+    max-width: 2.5rem !important;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+.mr-3, .mx-3 {
+    margin-right: 1rem !important;
+}
+.w-100 {
+    width: 100% !important;
+}
+@media (min-width: 768px) {
+.d-md-block {
+    display: block !important;
+}
+}
+.d-none {
+    display: none !important;
+}
+figure {
+    margin-bottom: 0;
+}
+
+figure {
+    margin: 0 0 1rem;
+}
+
+.font-weight-medium {
+    font-weight: 500 !important;
+}
+------------------------------------*/
+.nav-classic {
+  border-bottom: 1px solid #e7eaf3;
+}
+
+.nav-classic .nav-link {
+  color: #77838f;
+  border-bottom: 3px solid transparent;
+  border-radius: 0;
+  padding: 1rem 1.5rem;
+  margin-bottom: -.125rem;
+  transition: 0.3s;
+}
+
+.nav-classic .nav-link:hover {
+  color: #377dff;
+}
+
+.nav-classic .nav-link.active {
+  color: #377dff;
+  border-bottom-color: #377dff;
+}
+
+.nav-borderless {
+  border-color: transparent;
+}
+
+.nav-rounded {
+  border-radius: 0.3125rem;
+}
+
+.nav-rounded .nav-item:first-child .nav-link {
+  border-bottom-left-radius: 0.3125rem;
+}
+
+.nav-rounded .nav-item:last-child .nav-link {
+  border-bottom-right-radius: 0.3125rem;
+}
+
+.nav-shadow {
+  box-shadow: 0 3px 6px 0 rgba(140, 152, 164, 0.25);
+}
+
+.nav .nav-item:not(:first-child) {
+  margin-left: .25rem;
+}
+
+.nav .nav-item:not(:last-child) {
+  margin-right: .25rem;
+}
+
+/* Nav Steps */
+.nav-icon .nav-item {
+  color: #77838f;
+}
+
+.nav-icon .nav-item.active {
+  color: #377dff;
+}
+
+.nav-icon .nav-item.active .nav-icon-action {
+  color: #fff;
+  background-color: #377dff;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+
+.nav-icon-action {
+  position: relative;
+  display: block;
+  vertical-align: middle;
+  text-align: center;
+  z-index: 1;
+  line-height: 0.7;
+  width: 4rem;
+  height: 4rem;
+  font-size: 1.375rem;
+  color: #77838f;
+  background-color: rgba(119, 131, 143, 0.1);
+  border-radius: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: .5rem;
+  transition: 0.3s ease-in-out;
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+}
+
+.nav-icon-action-inner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
