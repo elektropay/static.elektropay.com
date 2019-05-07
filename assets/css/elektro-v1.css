@@ -13530,9 +13530,9 @@ img.img-shadow,
     background-repeat: no-repeat;
     height: 38px; 
     width: 200px;
-    margin-top: -5px;
+    margin-top: 0px;
     background-position: center; 
-    background-size: 150px;
+    background-size: 158px;
 }
 
 .header .inner-brand .brand-dark,
