@@ -18,7 +18,7 @@
     --gray: #6c757d;
     --gray-dark: #343a40;
     --black: #222;
-    --brand: #505cfd;
+    --brand: #1a90b5;
     --new-gray: #d8d8d8;
     --new-white: #fff;
     --primary: #007bff;
@@ -187,7 +187,7 @@ sup {
 }
 
 a {
-    color: #505cfd;
+    color: #1a90b5;
     text-decoration: none;
     background-color: transparent;
 }
@@ -12322,7 +12322,7 @@ img.img-shadow,
 .icon-box .icon-box-icon {
     font-size: 2.575rem;
     margin: 0 0 10px;
-    color: #505cfd;
+    color: #1a90b5;
     transition: all .3s ease-in-out;
 }
 
