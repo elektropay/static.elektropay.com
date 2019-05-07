@@ -12320,7 +12320,7 @@ img.img-shadow,
 }
 
 .icon-box .icon-box-icon {
-    font-size: 2.375rem;
+    font-size: 2.575rem;
     margin: 0 0 10px;
     color: #505cfd;
     transition: all .3s ease-in-out;
@@ -12344,18 +12344,18 @@ img.img-shadow,
 
 .icon-box-left {
     position: relative;
-    padding-left: 60px;
+    padding-left: 80px;
     text-align: left;
 }
 
 .icon-box-left .icon-box-icon {
     position: absolute;
-    height: 38px;
-    width: 38px;
+    height: 48px;
+    width: 48px;
     left: 0;
     text-align: center !important;
-    line-height: 2.375rem;
-    font-size: 2.1875rem;
+    line-height: 2.775rem;
+    font-size: 2.5875rem;
 }
 
 .number-box {
@@ -13530,9 +13530,9 @@ img.img-shadow,
     background-repeat: no-repeat;
     height: 38px; 
     width: 200px;
-    margin-top: 0px;
+    margin-top: -6px;
     background-position: center; 
-    background-size: 158px;
+    background-size: 162px;
 }
 
 .header .inner-brand .brand-dark,
