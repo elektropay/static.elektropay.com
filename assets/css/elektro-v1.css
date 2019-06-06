@@ -16612,13 +16612,14 @@ figure {
 .u-header__product-banner-title {
   display: block;
   color: #377dff;
-  font-size: 1.5625rem;
+  font-size: 0.975rem;
   font-weight: 500;
   margin-bottom: .5rem;
 }
 
 .u-header__product-banner-text {
   color: #1e2022;
+  font-size: 0.925rem;  
   margin-bottom: 0;
 }
 /*------------------------------------
