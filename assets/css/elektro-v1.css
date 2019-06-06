@@ -17331,8 +17331,102 @@ figure {
         flex-wrap: nowrap;
   }
 }
+
 .btn-circle {
     border-radius: 1.875rem;
+}
+
+  .order-sm-first {
+    -ms-flex-order: -1;
+        order: -1;
+  }
+  .order-sm-last {
+    -ms-flex-order: 13;
+        order: 13;
+  }
+  .order-sm-0 {
+    -ms-flex-order: 0;
+        order: 0;
+  }
+  .order-sm-1 {
+    -ms-flex-order: 1;
+        order: 1;
+  }
+  .order-sm-2 {
+    -ms-flex-order: 2;
+        order: 2;
+  }
+  .order-sm-3 {
+    -ms-flex-order: 3;
+        order: 3;
+  }
+  .order-sm-4 {
+    -ms-flex-order: 4;
+        order: 4;
+  }
+  .order-sm-5 {
+    -ms-flex-order: 5;
+        order: 5;
+  }
+  .order-sm-6 {
+    -ms-flex-order: 6;
+        order: 6;
+  }
+  .order-sm-7 {
+    -ms-flex-order: 7;
+        order: 7;
+  }
+  .order-sm-8 {
+    -ms-flex-order: 8;
+        order: 8;
+  }
+  .order-sm-9 {
+    -ms-flex-order: 9;
+        order: 9;
+  }
+  .order-sm-10 {
+    -ms-flex-order: 10;
+        order: 10;
+  }
+  .order-sm-11 {
+    -ms-flex-order: 11;
+        order: 11;
+  }
+  .order-sm-12 {
+    -ms-flex-order: 12;
+        order: 12;
+  }
+
+.u-devices-v2__phone-svg {
+    border-radius: 3rem;
+    box-shadow: 0 0 0.75rem 0.5rem rgba(30, 32, 34, 0.1);
+}
+
+svg {
+    margin-bottom: -0.4375rem;
+    vertical-align: baseline;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.z-index-n1 {
+    z-index: -1;
+}
+.max-width-50 {
+    max-width: 24.5rem;
+}
+.left-0 {
+    left: 0;
+}
+.bottom-0 {
+    bottom: 0;
+}
+
+.right-0 {
+    right: 0;
 }
 
 
