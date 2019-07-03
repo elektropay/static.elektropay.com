@@ -13310,7 +13310,7 @@ img.img-shadow,
 }
 
 .extra-nav > ul > li:first-child {
-    border-left: 1px solid;
+    border-left: 0px solid;
     padding: 0 0 0 15px;
 }
 
@@ -13461,7 +13461,7 @@ img.img-shadow,
 
 .header.header-transparent {
     background: transparent;
-    border-bottom: 1px solid rgba(255, 255, 255, .1);
+    border-bottom: 0px solid rgba(255, 255, 255, .1);
 }
 
 .header.header-transparent .inner-brand {
