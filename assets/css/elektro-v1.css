@@ -13483,7 +13483,7 @@ img.img-shadow,
 
 .header.header-transparent .extra-nav > ul > li > a,
 .header.header-transparent .inner-nav > ul > li > a {
-    color: rgba(77, 77, 77, 0.65);
+    color: #fff;
 }
 
 .header.header-transparent .extra-nav > ul > li > a:hover,
