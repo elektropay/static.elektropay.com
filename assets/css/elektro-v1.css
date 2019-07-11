@@ -11759,9 +11759,7 @@ a.text-dark:focus {
 }
 
 .btn {
-    text-transform: uppercase;
-    letter-spacing: .1125rem;
-    font-size: .75rem;
+    text-transform: none;
     cursor: pointer;
 }
 
