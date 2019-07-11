@@ -6143,7 +6143,13 @@ a.badge-dark:focus {
     background-color: #f3f3f3;
     border-radius: 0;
 }
-
+.max-width-40 {
+    max-width: 19.5rem;
+}
+@media (min-width: 576px)
+.position-sm-absolute {
+    position: absolute;
+}
 .progress-bar {
     display: -ms-flexbox;
     display: flex;
