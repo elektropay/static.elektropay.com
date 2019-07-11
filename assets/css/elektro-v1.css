@@ -13347,7 +13347,7 @@ img.img-shadow,
 
 .top-bar-cart > span > span {
     position: absolute;
-    background: #505cfd;
+    background: rgba(255, 255, 255, .7);
     border-radius: 100%;
     height: 15px;
     width: 15px;
@@ -13357,12 +13357,12 @@ img.img-shadow,
     letter-spacing: 0;
     line-height: 16px !important;
     font-size: 0.855rem;
-    color: #fff;
+    color: rgba(255, 255, 255, .7);
 }
 
 .header.header-transparent .top-bar-login > span > span {
-    color: #fff;
-    border-color: #fff;
+    color: rgba(255, 255, 255, .7);
+    border-color: rgba(255, 255, 255, .7);
     left: -4px;
     top: -5px;
     height: 40px;
@@ -13379,7 +13379,7 @@ img.img-shadow,
     background-color: transparent;
     border: 2px solid;
     padding:0.75rem 1.675rem;
-    line-height: 14px;
+    line-height: 10px;
     border-radius: 1.875rem;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
@@ -13414,7 +13414,7 @@ img.img-shadow,
     height: 40px;
     text-align: center;
     letter-spacing: 0;
-    color: #ffffff;
+    color: rgba(255, 255, 255, .7);
     display: inline-block;
     font-size: 1.015rem;
     font-weight: 500;
@@ -13426,7 +13426,7 @@ img.img-shadow,
     user-select: none;
     border: 2px solid transparent;
     padding: 0.75rem 1.675rem;
-    line-height: 14px;
+    line-height: 10px;
     border-radius: .1875rem;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
@@ -13485,7 +13485,7 @@ img.img-shadow,
 
 .header.header-transparent .extra-nav > ul > li > a,
 .header.header-transparent .inner-nav > ul > li > a {
-    color: #fff;
+    color: rgba(77, 77, 77, 0.65);
 }
 
 .header.header-transparent .extra-nav > ul > li > a:hover,
@@ -13496,7 +13496,7 @@ img.img-shadow,
 }
 
 .header.header-transparent .extra-nav > ul > li:first-child {
-    border-color: rgba(255, 255, 255, .1);
+    border-color: rgba(34, 34, 34, .65);
 }
 
 .header.header-transparent .inner-nav > ul > li > a:hover::after {
