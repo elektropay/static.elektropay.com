@@ -17746,7 +17746,7 @@ img {
     box-shadow: 0 3px 6px 0 rgba(140, 152, 164, 0.25) !important;
 }
 .btn-pill {
-    border-radius: 6.1875rem;
+    border-radius: 6.1875rem!imporant;
 }
 .btn-sm-wide {
     min-width: 8.4375rem;
