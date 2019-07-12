@@ -11734,6 +11734,20 @@ a.text-dark:focus {
     right: 10px;
 }
 
+.shadow-soft {
+    box-shadow: 0 3px 6px 0 rgba(140, 152, 164, 0.25) !important;
+}
+.btn-pill {
+    border-radius: 6.1875rem;
+}
+.btn-sm-wide {
+    min-width: 8.4375rem;
+}
+.btn-white {
+    background-color: #fff;
+    border-color: #fff;
+}
+
 .slides-navigation a.prev {
     text-align: left;
     left: 15px;
