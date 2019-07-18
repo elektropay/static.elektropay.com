@@ -18431,3 +18431,6 @@ img {
     min-height: 100vh;
   }
 }
+.font-size-1 {
+    font-size: 0.875rem;
+}
