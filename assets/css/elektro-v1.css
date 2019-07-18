@@ -594,9 +594,9 @@ pre code {
 }
 
 .container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
+    width: 1360px;
+    padding-right:40px;
+    padding-left:40px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -621,7 +621,7 @@ pre code {
 
 @media (min-width: 1200px) {
     .container {
-        max-width: 1140px;
+        max-width: 1360px;
     }
 }
 
@@ -13293,10 +13293,12 @@ img.img-shadow,
 }
 
 .extra-nav {
-    position: relative;
+        position:absolute;
     height: 100%;
     float: right;
     text-align: right;
+    margin-top:0px;
+    margin-right:20px;
 }
 
 .inner-navigation {
@@ -13351,6 +13353,7 @@ img.img-shadow,
 
 .extra-nav {
     padding-left: 10px;
+    margin-right:20px;
 }
 
 .extra-nav > ul {
@@ -13583,14 +13586,16 @@ img.img-shadow,
 }
 
 .header.header-small .inner-brand {
-    color: #222;
-    background-image: url("https://res.cloudinary.com/lmj6rf6tz/image/upload/v1557194032/elektropay/assets/img/elektro-2019.png");
+        color: #222;
+    background-image: url(https://res.cloudinary.com/lmj6rf6tz/image/upload/v1557194032/elektropay/assets/img/elektro-2019.png);
     background-repeat: no-repeat;
-    height: 38px; 
-    width: 200px;
-    margin-top: -6px;
-    background-position: center; 
-    background-size: 162px;
+    height: 36px;
+    width: 165px;
+    margin-top: 12px;
+    background-position: center;
+    background-size: 156px;
+    position: absolute;
+
 }
 
 .header .inner-brand .brand-dark,
