@@ -13528,10 +13528,10 @@ img.img-shadow,
     color: #222;
     background-image: url("https://res.cloudinary.com/lmj6rf6tz/image/upload/v1442882912/logo_grey_zhopqw.png");
     background-repeat: no-repeat;
-    height: 38px; 
-    width:200px;
-    margin-top: 1px;
-    background-size: 152px;
+    height: 36px;
+    width: 165px;
+    margin-top: 12px;
+    background-size: 156px;
     background-position: center; 
 }
 
@@ -13590,7 +13590,7 @@ img.img-shadow,
     background-image: url(https://res.cloudinary.com/lmj6rf6tz/image/upload/v1557194032/elektropay/assets/img/elektro-2019.png);
     background-repeat: no-repeat;
     height: 36px;
-    width: 165px;
+    width: 160px;
     margin-top: 12px;
     background-position: center;
     background-size: 156px;
