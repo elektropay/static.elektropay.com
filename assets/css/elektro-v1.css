@@ -118,7 +118,12 @@ p {
     margin-top: 0;
     margin-bottom: 1rem;
 }
-
+p.large {
+    font-size: 1.25rem;
+}
+p.x-large {
+    font-size: 1.75rem;
+}
 abbr[title],
 abbr[data-original-title] {
     text-decoration: underline;
@@ -7424,14 +7429,14 @@ button.bg-new-white:focus {
 }
 
 .bg-primary {
-    background-color: #007bff !important;
+    background-color: #15a7d5 !important;
 }
 
 a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-    background-color: #0062cc !important;
+    background-color: #1389af !important;
 }
 
 .bg-secondary {
