@@ -11371,12 +11371,12 @@ a.text-new-white:focus {
 }
 
 .text-primary {
-    color: #007bff !important;
+    color: #15a7d5 !important;
 }
 
 a.text-primary:hover,
 a.text-primary:focus {
-    color: #0056b3 !important;
+    color: #15A7D6 !important;
 }
 
 .text-secondary {
@@ -17756,9 +17756,7 @@ img {
 .btn-sm-wide {
     min-width: 8.4375rem;
 }
-.text-primary {
-    color: #72a3fd !important;
-}
+
 .btn-sm, .btn-group-sm > .btn {
     padding: 0.625rem 1.125rem;
     font-size: 0.875rem;
